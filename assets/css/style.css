@@ -70,6 +70,7 @@ li {
 .nav-link:hover {
     background-color: #B1A592;
     color: #333333;
+    transform: scale(1.1);
 }
 .row {
     display: flex;
